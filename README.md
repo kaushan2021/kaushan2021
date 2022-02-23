@@ -86,4 +86,6 @@
 <h1></h1>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=punk-rocher&show_icons=true&locale=en&layout=compact" alt="punk-rocher" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushan2021&show_icons=true&locale=en&layout=compact" alt="kaushan2021" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushan2021&show_icons=true&locale=en" alt="kaushan2021" /></p>
